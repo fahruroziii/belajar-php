@@ -8,4 +8,4 @@ $akhir = trim(fgets(STDIN));
 for($awal; $akhir<=$akhir; $awal++){
     echo "Antrian ke-$awal \n";
 }
-?>
+?> 
